@@ -4,7 +4,7 @@ Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Frontend Developer
 ------------------
 
-I've been learning to code for 9 years now. On my journey I tackled various branches from microprocessors to databses and even games. Recently I found a passion for frontend development with learning ReactJS but I didn't just stop there. I have been exploring the world of frontend development and mobile apps since.
+I've been learning to code for 9 years now. On my journey I tackled various branches of the industry from microprocessors to databses and even games. Recently I found a passion for frontend development with learning ReactJS but I didn't just stop there. I have been exploring the world of frontend development and mobile apps since.
 
 * 🌍  I'm based in Ostrava, Czech Republic
 * ✉️  You can contact me at [jirkapolednik@gmail.com](mailto:jirkapolednik@gmail.com)
