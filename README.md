@@ -31,12 +31,8 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 
 <p align="left"> <a href="https://www.github.com/Jiri-Polednik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jiri-polednik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiri-Polednik&langs_count=8&theme=radical)](https://github.com/Jiri-Polednik/github-readme-stats)
 
-<b>My GitHub Stats</b>
+![Jiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiri-Polednik&show_icons=true&theme=radical)
 
-<a href="http://www.github.com/Jiri-Polednik"><img src="https://github-readme-stats.vercel.app/api?username=Jiri-Polednik&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jiri-Polednik's GitHub stats" /></a>
-
-<a href="http://www.github.com/Jiri-Polednik"><img src="https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Jiri-Polednik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiri-Polednik&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=a9fef7&line=a9fef7&point=24292e&area=true&custom_title=Jiri's%20activity%20graph&border_radius=5)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
