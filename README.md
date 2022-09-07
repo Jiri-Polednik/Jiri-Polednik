@@ -31,8 +31,8 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 
 <p align="left"><a href="https://www.linkedin.com/in/jiri-polednik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiri-Polednik&langs_count=8&theme=radical)](https://github.com/Jiri-Polednik/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jiri-polednik.vercel.app/api/top-langs/?username=Jiri-Polednik&langs_count=8&theme=radical)](https://github.com/Jiri-Polednik/github-readme-stats)
 
-![Jiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiri-Polednik&show_icons=true&theme=radical)
+![Jiri's GitHub stats](https://github-readme-stats-jiri-polednik.vercel.app/api?username=Jiri-Polednik&show_icons=true&theme=radical)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=a9fef7&line=a9fef7&point=a9fef7&area=true&custom_title=Jiri's%20activity%20graph&hidden_order=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
