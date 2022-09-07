@@ -35,4 +35,4 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 
 ![Jiri's GitHub stats](https://github-readme-stats-jiri-polednik.vercel.app/api?username=Jiri-Polednik&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=a9fef7&line=a9fef7&point=a9fef7&area=true&custom_title=Jiri's%20activity%20graph&hidden_order=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
+[![Jiri's github activity graph](https://github-readme-activity-graph-delta.vercel.app/graph?username=Jiri-Polednik&bg_color=141321&color=a9fef7&line=a9fef7&point=a9fef7&area=true&custom_title=Jiri's%20activity%20graph&hide_border=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
