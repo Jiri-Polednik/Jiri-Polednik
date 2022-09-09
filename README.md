@@ -31,7 +31,7 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 
 <p align="left"><a href="https://www.linkedin.com/in/jiri-polednik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Top Langs](https://github-readme-stats-jiri-polednik.vercel.app/api/top-langs/?username=Jiri-Polednik&hide_border=true&theme=radical&layout=compact)](https://github.com/Jiri-Polednik/github-readme-stats)
+[![Top Langs](https://github-readme-stats-delta-sepia.vercel.app/api/top-langs/?username=Jiri-Polednik&hide_border=true&theme=radical&layout=compact)](https://github.com/Jiri-Polednik/github-readme-stats)
 
 [![GitHub Streak](https://jiri-polednik-streak-stats.herokuapp.com?user=Jiri-Polednik&theme=radical&hide_border=true)](https://jiri-polednik-streak-stats.herokuapp.com)
 
