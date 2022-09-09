@@ -35,6 +35,6 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 
 [![GitHub Streak](https://jiri-polednik-streak-stats.herokuapp.com?user=Jiri-Polednik&theme=radical&hide_border=true)](https://jiri-polednik-streak-stats.herokuapp.com)
 
-![Jiri's GitHub stats](https://github-readme-stats-jiri-polednik.vercel.app/api?username=Jiri-Polednik&hide_border=true&show_icons=true&theme=radical)
+![Jiri's GitHub stats](https://github-readme-stats-delta-sepia.vercel.app/api?username=Jiri-Polednik&hide_border=true&show_icons=true&theme=radical)
 
 [![Jiri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=d83a7c&line=a9fef7&point=eccd43&area=true&custom_title=Jiri's%20activity%20graph&hide_border=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
