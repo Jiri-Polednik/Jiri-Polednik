@@ -34,6 +34,6 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 [![Top Langs](https://github-readme-stats-delta-sepia.vercel.app/api/top-langs/?username=Jiri-Polednik&hide_border=true&theme=radical&layout=compact)](https://github.com/Jiri-Polednik/github-readme-stats)
 
 
-![Jiri's GitHub stats](https://github-readme-stats-delta-sepia.vercel.app/api?username=Jiri-Polednik&hide_border=true&show_icons=true&theme=radical)
+![Jiri's GitHub stats](github-readme-stats-delta-sepia.vercel.app/api?username=Jiri-Polednik&hide_border=true&show_icons=true&theme=radical)
 
 [![Jiri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=d83a7c&line=a9fef7&point=eccd43&area=true&custom_title=Jiri's%20activity%20graph&hide_border=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
