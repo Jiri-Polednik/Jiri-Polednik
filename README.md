@@ -30,10 +30,3 @@ I've been learning to code for 9 years now. On my journey I tackled various bran
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/jiri-polednik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-[![Top Langs](https://github-readme-stats-delta-sepia.vercel.app/api/top-langs/?username=Jiri-Polednik&hide_border=true&theme=radical&layout=compact)](https://github.com/Jiri-Polednik/github-readme-stats)
-
-
-![Jiri's GitHub stats](github-readme-stats-delta-sepia.vercel.app/api?username=Jiri-Polednik&hide_border=true&show_icons=true&theme=radical)
-
-[![Jiri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiri-Polednik&bg_color=141321&color=d83a7c&line=a9fef7&point=eccd43&area=true&custom_title=Jiri's%20activity%20graph&hide_border=true)](https://github.com/Jiri-Polednik/github-readme-activity-graph)
