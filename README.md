@@ -4,7 +4,7 @@ Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Fullstack Developer
 ------------------
 
-I've been learning to code for 9 years now. On my journey I tackled various branches of the industry from microprocessors to databases and even games. Recently I found a passion for frontend development with learning ReactJS but I didn't just stop there. I have been exploring the world of frontend development and mobile apps since.
+I am a creative and detail-oriented Lead Fullstack Developer with expertise in React, TypeScript, and modern web technologies. My professional journey includes significant contributions to iGaming platforms, forest management systems, and e-commerce applications. I excel in agile environments, team leadership, and continuously explore new advancements in frontend and backend development.
 
 * 🌍  I'm based in Ostrava, Czech Republic
 * ✉️  You can contact me at [jirkapolednik@gmail.com](mailto:jirkapolednik@gmail.com)
